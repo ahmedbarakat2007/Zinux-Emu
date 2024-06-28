@@ -7,11 +7,11 @@ trigger:
 - main
 
 pool:
-  vmImage: ubuntu-latest
+  vmImage: Ziunx last
 
 steps:
-- script: echo Hello, world!
-  displayName: 'Run a one-line script'
+- script: ?
+  displayName: 'Ziunx'
 
 - script: |
     echo Add other tasks to build, test, and deploy your project.
