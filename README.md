@@ -4,6 +4,8 @@
 
 Telegram Channel : https://t.me/zinux1
 
+Support Us : https://paypal.me/ziunx
+
 Zinux is a Mod for Yuzu (The Discontinued Nintendo Switch Emulator) Ment to Complete the Development on Yuzu and Give More Performance
 Made Primarily by Ali AlSaaid
 
